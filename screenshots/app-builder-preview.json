@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Simulado de Epidemiologia",
+      "hasCanvas": false,
+      "bodyTextLen": 687,
+      "bodyTextHash": "a68087237433cea77ff1e13468db9c364d80c99458cbce31ee890e9049e8b768",
+      "bodyTextPrefix": "Ir ao conteúdo Epidemiologia Aula 6 · Cássio Zini Início Pratica",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Simulado de Epidemiologia",
+      "hasCanvas": false,
+      "bodyTextLen": 666,
+      "bodyTextHash": "abe31f3f27de58395a0a85d9fd57da34ed92d20253f73cfb5e3ecd871078df68",
+      "bodyTextPrefix": "Ir ao conteúdo Epidemiologia Início Praticar Simulado Revisão TU",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
